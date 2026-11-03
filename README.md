@@ -4,6 +4,11 @@ Technical founder of [941 Apps](https://941apps.com). Previously VP of Product D
 
 Since 2024 I have built ten App Store products and two web platforms alone, working with coding agents inside a harness I wrote to govern them: every tool call passes through hooks (drift detection, an evidence gate on completion claims, recursion limits, sandboxing, key-exposure guards), and nothing ships on the agent's own say-so. Operating those agents for a year turned into empirical work on how autonomous systems fail.
 
+**Code**
+
+- [agent-harness-excerpts](https://github.com/blakecrosley/agent-harness-excerpts): the drift detector, evidence gate, recursion guard, and key-exposure guard from that harness, with tests and the seven-failure-modes doc
+- [941analytics](https://github.com/blakecrosley/941analytics): privacy-first analytics on Cloudflare Workers and D1, no cookies or fingerprinting
+
 **Writing**
 
 - [Agent security series](https://blakecrosley.com/writing/agent-security): incident analyses of sandbox escapes read as reward hacking, auto-mode classifiers as (non-)security boundaries, trust-dialog and MCP CVEs
