@@ -8,7 +8,6 @@ Since 2024 I have built ten App Store products and two web platforms alone, work
 
 - [appstore-connect-mcp](https://github.com/blakecrosley/appstore-connect-mcp): a read-only MCP server for the App Store Connect API, with a daily check that runs with no model; [what the API taught me](https://blakecrosley.com/blog/appstore-connect-mcp-read-only)
 - [agent-harness-excerpts](https://github.com/blakecrosley/agent-harness-excerpts): the drift detector, evidence gate, recursion guard, and key-exposure guard from that harness, with tests and the seven-failure-modes doc
-- [941analytics](https://github.com/blakecrosley/941analytics): privacy-first analytics on Cloudflare Workers and D1, no cookies or fingerprinting
 
 **Writing**
 
